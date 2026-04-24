@@ -2,6 +2,11 @@
 
 Zombie Checkpoint Escape is a 3D OpenGL-based game where the player moves through checkpoints, solves color-tile puzzles, avoids zombies, and clears walls to win the game.
 
+## Team Members
+- Sarida Islam
+- Nazia Nuzhat Esha
+- Aishwarja Roy
+
 ## Features
 
 - 3D OpenGL environment
