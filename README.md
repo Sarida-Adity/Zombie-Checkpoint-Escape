@@ -5,7 +5,7 @@ Zombie Checkpoint Escape is a 3D OpenGL-based game where the player moves throug
 ## Team Members
 - Sarida Islam
 - Nazia Nuzhat Esha
-- Aishwarja Roy
+- Aishwarja Roy(23201386)
 
 ## Features
 
